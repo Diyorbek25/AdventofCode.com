@@ -38,7 +38,7 @@ static int SumOfPriorities1(string[] input)
 	return sum;
 }
 
-/* --- Part One --- */
+/* --- Part Two --- */
 static int SumOfPriorities2(string[] input)
 {
 	var map = new Dictionary<char, int>();
