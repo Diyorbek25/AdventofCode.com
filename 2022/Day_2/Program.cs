@@ -1,5 +1,5 @@
 ﻿
-string[] input = File.ReadAllLines(@"Append path...");
+string[] input = File.ReadAllLines(@"C:\Users\hp\Desktop\Input.txt");
 /*
  * A, (X - 1 ball) - Rock
  * B, (Y - 2 ball) - Paper
